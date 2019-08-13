@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-web" />
+        <module name="product-service" />
+        <module name="service-api" />
+        <module name="service-discovery" />
+        <module name="user-service" />
+        <module name="zuul-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mall-web" target="1.8" />
+      <module name="product-service" target="1.8" />
+      <module name="service-api" target="1.8" />
+      <module name="service-discovery" target="1.8" />
+      <module name="twostepsfromjava-cloud-parent" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="zuul-proxy" target="1.8" />
+      <module name="zuul-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

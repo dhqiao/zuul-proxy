@@ -1,0 +1,4 @@
+io/twostepsfromjava/cloud/service/zuul/Application.class
+io/twostepsfromjava/cloud/service/zuul/filter/PreTypeZuulFilter.class
+io/twostepsfromjava/cloud/service/zuul/fallback/ProductServiceFallbackProvider$1.class
+io/twostepsfromjava/cloud/service/zuul/fallback/ProductServiceFallbackProvider.class

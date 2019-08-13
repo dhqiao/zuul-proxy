@@ -1,0 +1,3 @@
+/Users/xujun/hf-java/zuul-proxy/zuul-server/src/main/java/io/twostepsfromjava/cloud/service/zuul/Application.java
+/Users/xujun/hf-java/zuul-proxy/zuul-server/src/main/java/io/twostepsfromjava/cloud/service/zuul/filter/PreTypeZuulFilter.java
+/Users/xujun/hf-java/zuul-proxy/zuul-server/src/main/java/io/twostepsfromjava/cloud/service/zuul/fallback/ProductServiceFallbackProvider.java
